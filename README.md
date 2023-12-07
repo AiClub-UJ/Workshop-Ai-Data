@@ -2,7 +2,7 @@
 Fundamentals of AI and data science workshop.
 - Presenter:
    * Hisham Altayieb.
-- 8 - 9 December, 2030
+- 8 - 9 December, 2023
 - Confrence Center at University of Jeddah.
 
 # The objectives:
