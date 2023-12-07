@@ -5,7 +5,7 @@ Fundamentals of AI and data science workshop.
 - 8 - 9 December, 2023
 - Confrence Center at University of Jeddah.
 
-# The objectives:
+# The objectives
 
 1. Introduce students to the concept of Artificial Intelligence (AI) and its wide range of applications.
 2. Help students understand the stages involved in developing AI projects.
