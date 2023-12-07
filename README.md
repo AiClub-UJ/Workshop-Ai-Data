@@ -1,9 +1,9 @@
 # Journey Into Data Scienc & AI Workshop
-Join us on the fundamentals of AI and data science workshop.
+Fundamentals of AI and data science workshop.
 - Presenter:
    * Hisham Altayieb.
+- 8 - 9 December, 2030
 - Confrence Center at University of Jeddah.
-- Certificate of attendance
 
 # The objectives:
 
