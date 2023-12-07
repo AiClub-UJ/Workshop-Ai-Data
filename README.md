@@ -1,7 +1,9 @@
 # Journey Into Data Scienc & AI Workshop
 Join us on the fundamentals of AI and data science workshop.
 - Presenter:
-   * Hisham Altayieb
+   * Hisham Altayieb.
+- Confrence Center at University of Jeddah.
+- Certificate of attendance
 
 # The objectives:
 
